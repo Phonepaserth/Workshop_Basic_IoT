@@ -1,2 +1,2 @@
-# Workshop_Basic_IoT
+# Workshop_Basic_IoTs
 Workshop Basic of IoTs (Internet of Things).
